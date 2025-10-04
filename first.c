@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main()
-{
-    long long int a = 10000000000000;
-
-    printf("%lld",a);
+{   double f = 261545.3646526511;
+    printf("%lf",f);
 
     return 0;
 }
